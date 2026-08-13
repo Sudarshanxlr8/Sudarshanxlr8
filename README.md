@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Maity</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **various projects**
-
 - 👯 I’m looking to collaborate with **you**
 
 - 👨‍💻 All of my projects are available at [https://sudarshantech.vercel.app/](https://sudarshantech.vercel.app/)
