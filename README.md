@@ -3,11 +3,11 @@
 
 - 👯 I’m looking to collaborate with **you**
 
-- 👨‍💻 All of my projects are available at [https://sudarshantech.vercel.app/](https://sudarshantech.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sudarshantech.vercel.app/)
 
 - 📫 How to reach me **sudarshanxlr8@gmail.com**
 
-- 📄 Know about my experiences [https://sudarshantech.vercel.app/](https://sudarshantech.vercel.app/)
+- 📄 Know about my [Experiences](https://sudarshantech.vercel.app/#experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
